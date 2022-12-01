@@ -9,6 +9,7 @@
 - 🔭 My goal is to become a back end developer
 - 🕵️‍♀️ I am looking for my first job in the field.
 - 📫 The best way to reach me is to send me an email.
+- ⚡ My portfolio: pedrogabrielf.github.io
 
 <!---
 pedrogabrielf/pedrogabrielf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
