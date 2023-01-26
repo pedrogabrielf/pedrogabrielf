@@ -12,6 +12,8 @@
 - ⚡ My portfolio: pedrogabrielf.github.io
 - ⚡ My Linkedin: www.linkedin.com/in/pedro-gabriel-fonseca-508733234/
 
+Js HTML CSS Python Node.js SQL MONGODB
+
 
 <!---
 pedrogabrielf/pedrogabrielf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
