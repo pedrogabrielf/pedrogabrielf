@@ -12,7 +12,6 @@
 - ⚡ My portfolio: pedrogabrielf.github.io
 - ⚡ My Linkedin: www.linkedin.com/in/pedro-gabriel-fonseca-508733234/
 
-Js HTML CSS Python Node.js SQL MONGODB
 
 
 <!---
