@@ -11,7 +11,6 @@
 - 📫 The best way to reach me is to send me an email.
 - ⚡ My portfolio: pedrogabrielf.github.io
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 <div>
   <a href="https://instagram.com/pedrogabf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
