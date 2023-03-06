@@ -12,7 +12,7 @@
 - ⚡ My portfolio: pedrogabrielf.github.io
 - ⚡ My Linkedin: www.linkedin.com/in/pedro-gabriel-fonseca-508733234/
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Portfolio](pedrogabrielf.github.io)
 
 
 
