@@ -5,9 +5,9 @@
 #### Here are some quick things about me:
 
 - 👋 My name is Pedro.
-- 👀 I'm 20 years old.
+- 👀 I'm 21 years old.
 - 🔭 My goal is to become a back end developer
-- 🕵️‍♀️ I am looking for my first job in the field.
+- 🕵️‍♀️ I am working at CELEPAR.
 - 📫 The best way to reach me is to send me an email.
 - ⚡ My portfolio: pedrogabrielf.github.io
 
