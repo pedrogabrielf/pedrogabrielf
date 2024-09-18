@@ -5,7 +5,7 @@
 #### Here are some quick things about me:
 
 - 👋 My name is Pedro.
-- 👀 I'm 21 years old.
+- 👀 I'm 22 years old.
 - 🔭 My goal is to become a Data Analyst.
 - 🕵️‍♀️ I am working at CELEPAR.
 - 📫 The best way to reach me is to send me an email.
