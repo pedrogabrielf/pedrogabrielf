@@ -4,7 +4,7 @@
 
 #### Here are some quick things about me:
 
-- 👋 My name is Pedro.
+- 👋 My name is Pedro Gabriel.
 - 👀 I'm 22 years old.
 - 🔭 My goal is to become a Data Analyst.
 - 🕵️‍♀️ I am working at CELEPAR.
