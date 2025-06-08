@@ -7,7 +7,7 @@
 - 👋 My name is Pedro Gabriel.
 - 👀 I'm 22 years old.
 - 🔭 My goal is to become a Data Analyst.
-- 🕵️‍♀️ I am working at CELEPAR.
+- 🕵️‍♀️ I'm looking for an internship in Data Analytics.
 - 📫 The best way to reach me is to send me an email.
 - ⚡ My portfolio: [pedrogabrielf.github.io](https://pedrogabrielf.github.io)
 
