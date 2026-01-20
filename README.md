@@ -7,7 +7,7 @@ Currently engineering the future of fintech automation at **[Jeeves](https://www
 ---
 
 ### ⚡ What I'm up to
-- 🤖 **AI Engineer Intern @ Jeeves:** Reducing LLM costs by 96% and building internal agents.
+- 🤖 **AI Engineer Intern @ Jeeves:** Reducing LLM costs by 80% and building internal agents.
 - 🏗️ **Building [SapoSign]:** Developing an AI-powered Contract Lifecycle Management (CLM) SaaS.
 - 🎓 **Student @ UTFPR:** B.S. in Information Systems.
 
